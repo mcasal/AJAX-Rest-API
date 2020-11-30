@@ -1,0 +1,38 @@
+body {
+    background-color: #d4cdc1;
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    height: 100vh;
+}
+.chuck {
+    color: #52ffb8;
+    font-size: 4.5rem;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding: 0 25%;
+}
+.norris{
+    margin-top: 5%;
+    background-color: #fff;
+    border-radius: 5px;
+    border-color: #000;
+    border-width: 5px;
+    border-style: solid;
+    width: 50%;
+    min-width: 375px;
+    box-shadow: 0 5px 15px #302B21;
+}
+
+#joke {
+    width: 65%;
+    height: 20vh;
+    overflow: auto;
+}
+
+html, button, a {
+    cursor: url(img/cursor.png), pointer;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: url(img/cursor.png), pointer;
+}

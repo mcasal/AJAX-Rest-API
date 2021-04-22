@@ -15,5 +15,5 @@ Creación de una página web donde se hace una llamada AJAX a una API con chiste
 
 
 ## Screenshots
-<img width="100%" src="https://user-images.githubusercontent.com/60666104/115692588-6a906280-a35f-11eb-8e72-42468bd328a9.png"/>
+<img width="100%" src="https://user-images.githubusercontent.com/60666104/115701882-8d734480-a368-11eb-9b56-54976133dd31.png"/>
 
